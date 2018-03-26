@@ -1,9 +1,9 @@
+# Fibonacci RESTful web service
 This is a very simple RESTful web service that accepts a given number as input and outputs that given set of numbers from the Fibonacci sequence, starting with 0.  Only positive numbers are accepted. 
 
 For example: 5
 would output
 [0, 1, 1, 2, 3] 
-```
 
 ## Requirements
 
