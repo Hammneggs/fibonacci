@@ -11,12 +11,13 @@ would output
 - Flask web framework  (install with: pip install flask) 
 
 ```
-pip install -r requirements.txt
+sudo pip install -r requirements.txt
 ```
 
 ## Installation
 After you install Flask, clone this github repository.  Make sure the app.py script is at the same location as your flask directory and start the app with
 
+      $  chmod 755 app.py
       $ ./app.py &
 
 The application is set to listen on port 5000.  
