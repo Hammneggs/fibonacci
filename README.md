@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ## Installation
-After you install Flask, clone this github repository, make sure the app.py script at the same location as your flask directory and start the app with
+After you install Flask, clone this github repository.  Make sure the app.py script is at the same location as your flask directory and start the app with
 
       $ ./app.py &
 
@@ -24,6 +24,8 @@ To send a request, you can go to your web browser at:
       http://127.0.0.1:5000/fibonacci/<number you choose>
 ```
 or use curl:
+```
       $ curl http://127.0.0.1:5000/fibinacci/<number you choose>
+```
 
 
