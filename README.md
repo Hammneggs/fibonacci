@@ -7,8 +7,8 @@ would output
 
 ## Requirements
 
-python (verified with version 2.7.13)
-Flask web framework  (install with: pip install flask) 
+- python (verified with version 2.7.13)
+- Flask web framework  (install with: pip install flask) 
 
 ```
 pip install -r requirements.txt
